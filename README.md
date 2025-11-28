@@ -71,3 +71,20 @@ The dashboard contains three main pages:
 
 ## 📁 Project Structure
 
+Sales-Insights-SQL-PowerBI
+│
+├── data
+│ └── train_cleaned.csv
+│
+├── sql
+│ ├── 01_cleaning.sql
+│ ├── 02_feature_engineering.sql
+│ └── 03_analysis_queries.sql
+│
+├── powerbi
+│ └── Sales_Insights_Dashboard.pbix
+│
+├── docs
+│ └── (optional screenshots)
+│
+└── README.md
